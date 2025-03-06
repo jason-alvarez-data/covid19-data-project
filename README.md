@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinat
 This project is open source and available under the MIT License.
 
 ## Author
-[Your Name]
+Jason Alvarez
 
 ## Acknowledgments
 - Data provided by Our World in Data
